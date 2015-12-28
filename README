@@ -1,0 +1,4 @@
+This repository contains the demo files for the autoconf & automake tutorial (please see http://mij.oltrelinux.com/devel/autoconf-automake/). 
+Hello is a "Hello world" application for you to have a working example of something arranged with the autoconf and automake tools. Hello has one binary program: hello, with a man page. One script "hello.sh" is also shipped, and documented by a man page. A plain text file outlines the features of hello, and is installed in the system's doc folder as shared data.
+The original author of the program is mij@bitchx.it, I just corrected some minor problems. 
+
