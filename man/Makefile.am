@@ -1,1 +1,1 @@
-man_MANS = hello.8  hellofuck.8
+man_MANS = hello.8 

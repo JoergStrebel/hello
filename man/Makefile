@@ -182,10 +182,10 @@ SET_MAKE =
 SHELL = /bin/sh
 STRIP = 
 VERSION = 1.0
-abs_builddir = /home/jstrebel/devel/hellofuck/man
-abs_srcdir = /home/jstrebel/devel/hellofuck/man
-abs_top_builddir = /home/jstrebel/devel/hellofuck
-abs_top_srcdir = /home/jstrebel/devel/hellofuck
+abs_builddir = /home/jstrebel/devel/hello/man
+abs_srcdir = /home/jstrebel/devel/hello/man
+abs_top_builddir = /home/jstrebel/devel/hello
+abs_top_srcdir = /home/jstrebel/devel/hello
 ac_ct_CC = gcc
 am__include = include
 am__leading_dot = .
@@ -204,7 +204,7 @@ host_alias =
 htmldir = ${docdir}
 includedir = ${prefix}/include
 infodir = ${datarootdir}/info
-install_sh = ${SHELL} /home/jstrebel/devel/hellofuck/install-sh
+install_sh = ${SHELL} /home/jstrebel/devel/hello/install-sh
 libdir = ${exec_prefix}/lib64
 libexecdir = ${exec_prefix}/lib
 localedir = ${datarootdir}/locale
@@ -224,7 +224,7 @@ target_alias =
 top_build_prefix = ../
 top_builddir = ..
 top_srcdir = ..
-man_MANS = hello.8  hellofuck.8
+man_MANS = hello.8 
 all: all-am
 
 .SUFFIXES:
